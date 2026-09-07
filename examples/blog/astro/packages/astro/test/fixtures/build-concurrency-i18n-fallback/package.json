@@ -1,8 +1,0 @@
-{
-	"name": "@test/build-concurrency-i18n-fallback",
-	"private": true,
-	"type": "module",
-	"dependencies": {
-		"astro": "workspace:*"
-	}
-}

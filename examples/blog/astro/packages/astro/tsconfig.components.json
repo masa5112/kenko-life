@@ -1,8 +1,0 @@
-{
-  "extends": "../../configs/tsconfig.base.json",
-  "compilerOptions": {
-    "emitDeclarationOnly": false,
-    "jsx": "preserve"
-  },
-  "include": ["components/**/*", "env.d.ts", "dev-only.d.ts"]
-}
